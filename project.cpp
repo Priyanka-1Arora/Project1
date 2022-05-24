@@ -24,8 +24,17 @@ int main(){
 	cout<<3.Multiplication;
 	cout<<endl;
 	cout<<"Enter Ist number";
-	cin>>c;
+	cin>>e;
 	cout<<"Enter 2nd number";
-	cin>>d;
+	cin>>f;
 	cout<<"After Multiplication the result is: "<<(e*f);
+       // Division done by Naina Verma
+        int g,h;
+	cout<<4.Division;
+	cout<<endl;
+	cout<<"Enter Ist number";
+	cin>>g;
+	cout<<"Enter 2nd number";
+	cin>>h;
+	cout<<"After Division the result is: "<<(g/h);
 }
