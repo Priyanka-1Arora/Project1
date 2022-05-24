@@ -11,30 +11,17 @@ int main(){
 	cin>>b;
 	cout<<"After addition the result is: "<<(a+b); 
 	// Subtraction done  by NavyaGupta
-	int c,d;
+	cout<<endl;
 	cout<<2.Subtraction;
 	cout<<endl;
-	cout<<"Enter Ist number";
-	cin>>c;
-	cout<<"Enter 2nd number";
-	cin>>d;
-	cout<<"After Subtraction the result is: "<<(c-d);
+	cout<<"After Subtraction the result is: "<<(a-b);
 	// Multiplication done  by Rashika Bhosale
-	int e,f;
+	cout<<endl
 	cout<<3.Multiplication;
-	cout<<endl;
-	cout<<"Enter Ist number";
-	cin>>e;
-	cout<<"Enter 2nd number";
-	cin>>f;
-	cout<<"After Multiplication the result is: "<<(e*f);
+	cout<<"After Multiplication the result is: "<<(a*b);
        // Division done by Naina Verma
-        int g,h;
+        cout<<endl;
 	cout<<4.Division;
 	cout<<endl;
-	cout<<"Enter Ist number";
-	cin>>g;
-	cout<<"Enter 2nd number";
-	cin>>h;
-	cout<<"After Division the result is: "<<(g/h);
+	cout<<"After Division the result is: "<<(a/b);
 }
