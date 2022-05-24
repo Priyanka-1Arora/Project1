@@ -19,4 +19,13 @@ int main(){
 	cout<<"Enter 2nd number";
 	cin>>d;
 	cout<<"After Subtraction the result is: "<<(c-d);
+	// Multiplication done  by Rashika Bhosale
+	int e,f;
+	cout<<3.Multiplication;
+	cout<<endl;
+	cout<<"Enter Ist number";
+	cin>>c;
+	cout<<"Enter 2nd number";
+	cin>>d;
+	cout<<"After Multiplication the result is: "<<(e*f);
 }
