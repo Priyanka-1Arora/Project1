@@ -9,5 +9,14 @@ int main(){
 	cin>>a;
 	cout<<"Enter 2nd number";
 	cin>>b;
-	cout<<"After addition the result is: "<<(a+b);
+	cout<<"After addition the result is: "<<(a+b); 
+	// Subtraction done  by NavyaGupta
+	int c,d;
+	cout<<2.Subtraction;
+	cout<<endl;
+	cout<<"Enter Ist number";
+	cin>>c;
+	cout<<"Enter 2nd number";
+	cin>>d;
+	cout<<"After Subtraction the result is: "<<(c-d);
 }
