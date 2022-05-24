@@ -19,4 +19,13 @@ int main(){
 	cout<<"Enter 2nd number";
 	cin>>d;
 	cout<<"After Subtraction the result is: "<<(c-d);
+     // Division done by Naina Verma
+	int g,h;
+	cout<<4.Division;
+	cout<<endl;
+	cout<<"Enter Ist number";
+	cin>>g;
+	cout<<"Enter 2nd number";
+	cin>>h;
+	cout<<"After Division the result is: "<<(g/h);
 }
